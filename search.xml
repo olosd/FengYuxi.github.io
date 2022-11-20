@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title></title>
+      <link href="/2022/11/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/11/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<hr><p>title:第一篇文章<br>date:2022-11-20 12:00:00<br>updated:2022-11-20 12:00:00</p><hr><p>##这是我的第一篇文章</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title></title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<hr><p>title:友链<br>date:2022-11-20 12:00:00<br>type:”link”</p><hr>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/about/iindex.html"/>
+      <url>/about/iindex.html</url>
+      
+        <content type="html"><![CDATA[<hr><p>title:关于<br>date:2022-11-20 12:00:00</p><hr>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[<hr><p>title:电影<br>date:2022-11-20 12:00:00</p><hr>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<hr><p>title:音乐<br>date:2022-11-20 12:00:00</p><hr>]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
